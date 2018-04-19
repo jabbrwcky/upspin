@@ -22,7 +22,7 @@ The image defines two volumes:
 
 The default entrypoint defines the passes the arguments `-config`, `-serverconfig` and `-letscache` to use the defined volumes.
 
-Any additional argumentscan simply be passed as CMD/arguments on container creation.
+Any additional arguments can simply be passed as CMD/arguments on container creation.
 
 ## Standalone operation
 
